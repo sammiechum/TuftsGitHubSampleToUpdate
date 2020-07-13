@@ -1,6 +1,6 @@
 Helol!
 
-THis is a file for ParticipaNTS in my Git and GitHub wroksohp.
+This is a file for participants in my Git and GitHub workshop.
 
 It innntentiontallllly has mnay typos and eRrors.
 
