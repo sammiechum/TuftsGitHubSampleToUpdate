@@ -1,4 +1,4 @@
-Helol!
+Hello!
 
 This is a file for participants in my Git and GitHub workshop.
 
